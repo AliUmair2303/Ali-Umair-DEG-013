@@ -1,0 +1,7 @@
+Have Done this assignment with Ali Umair on Muhammad Talha's PC.The Screenshot File Names are the steps we have taken in order to complete this Assignment.
+	Step 1 :  Created bash (.sh) file.
+	Step 2 : Created Names File in which we added our Names.
+	Step 3 : adding the rsync command inside the bash file i.e. (CopyFileScript.sh)
+	Step 4 : chmod +x CopyFileScript.sh
+	Step 5 :  adding path in file after typing crontab -e in terminal
+	Step 6 : Observing the file Copying from PythonPractice folder to Desktop in 1 minute.
