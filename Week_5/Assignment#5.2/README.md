@@ -1,4 +1,4 @@
-# Descrepition
+# Descripition
 
 ## Assignment#5.2
 
