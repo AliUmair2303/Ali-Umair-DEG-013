@@ -1,6 +1,6 @@
 # Description
 
-## Assignment#45.5a
+## Assignment#5.5a
 
 Prepare a simple configuration to create an AWS S3 bucket with id set to "name-
 surname-bucket", and output this id to a screen.
